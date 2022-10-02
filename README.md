@@ -1,3 +1,6 @@
+
+Video games for children with learning obstacles aims to use interactive games to teach basic skills such as time and money awareness to the children with learning obstacles such as autistic children. The project is written in ReactJS and uses Firebase for database. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
